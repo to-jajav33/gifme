@@ -1,0 +1,22 @@
+{
+  "name": "gifme",
+  "version": "0.0.1-alpha-1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/to-jajav33/gifme.git"
+  },
+  "author": "Jajav33 <to.jajav33@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/to-jajav33/gifme/issues"
+  },
+  "homepage": "https://github.com/to-jajav33/gifme#readme",
+  "workspaces": [
+    "packages/app"
+  ]
+}
